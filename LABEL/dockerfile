@@ -1,0 +1,4 @@
+FROM almalinux:9
+LABEL name="ReddySekhar"\
+      course="DevOps"\
+      description="Hi, iam learning DevOps Course"
