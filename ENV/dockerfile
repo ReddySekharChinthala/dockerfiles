@@ -1,5 +1,0 @@
-FROM almalinux:9
-ENV Course="DevOps"\
-    Trainer="Siva"\
-    duration="100hrs"
-CMD ["sleep","60"]
